@@ -30,7 +30,7 @@ jobs:
           node-version: 20
 
       - name: Install Bun
-        uses: oven-sh/bun- casework@v1 # Instala o Bun para ler seu arquivo bun.lockb
+        uses: oven-sh/setup-bun@v2 # Instala o Bun para ler seu arquivo bun.lockb
         with:
           bun-version: latest
 

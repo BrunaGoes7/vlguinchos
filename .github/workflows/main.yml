@@ -3,7 +3,7 @@ name: Deploy Vite Site
 on:
   push:
     branches:
-      - principal # Executa sempre que você atualizar a branch principal
+      - main # Executa sempre que você atualizar a branch principal
 
 permissions:
   contents: read

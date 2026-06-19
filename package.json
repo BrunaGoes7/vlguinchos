@@ -1,0 +1,10 @@
+{
+  "name": "vl-guinchos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático VL Guinchos — HTML, CSS e JS puros",
+  "scripts": {
+    "dev": "npx --yes serve -l 8080 .",
+    "start": "npx --yes serve -l 8080 ."
+  }
+}
